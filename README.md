@@ -1,4 +1,4 @@
-# rojeto Prático de Sistemas Aplicados à Negócios
+# Projeto Prático de Sistemas Aplicados à Negócios
 
 * Universidade nove de julho
 *Sistemas de informação
